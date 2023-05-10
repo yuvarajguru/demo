@@ -1,0 +1,91 @@
+{
+  "posts": [
+    {
+      "questionText": "what is your age?",
+      "inputFiled": [
+        {
+          "name": "10-20"
+        },
+        {
+          "name": "20-30"
+        },
+        {
+          "name": "30-40"
+        }
+      ],
+      "answerText": "20-30",
+      "totalQuestions": 5,
+      "perQuestionScore": 5,
+      "id": 1
+    },
+    {
+      "questionText": "asd",
+      "inputFiled": [
+        {
+          "name": "d"
+        },
+        {
+          "name": "sa"
+        }
+      ],
+      "answerText": "asdas",
+      "totalQuestions": 5,
+      "perQuestionScore": 5,
+      "id": 2
+    },
+    {
+      "questionText": "what is capital of india",
+      "inputFiled": [
+        {
+          "name": "Delhi"
+        },
+        {
+          "name": "Mumbai"
+        },
+        {
+          "name": "Chennai"
+        },
+        {
+          "name": "Kolakat"
+        }
+      ],
+      "answerText": "Delhi ",
+      "totalQuestions": 5,
+      "perQuestionScore": 5,
+      "id": 3
+    },
+    {
+      "questionText": "what is are?",
+      "inputFiled": [
+        {
+          "name": "a"
+        },
+        {
+          "name": "b"
+        },
+        {
+          "name": "c"
+        },
+        {
+          "name": "d"
+        }
+      ],
+      "answerText": "b",
+      "totalQuestions": 5,
+      "perQuestionScore": 5,
+      "id": 4
+    },
+    {
+      "questionText": "asd",
+      "inputFiled": [
+        {
+          "name": "sa"
+        }
+      ],
+      "answerText": "as",
+      "totalQuestions": 5,
+      "perQuestionScore": 5,
+      "id": 5
+    }
+  ]
+}
